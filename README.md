@@ -6,3 +6,6 @@ Created a Hall Booking API with Node and Express.
 5. https://hall-booking-mcgh.onrender.com/hall-booking/customer-data - To GET all Customer with Booked Details
 6. https://hall-booking-mcgh.onrender.com/hall-booking/bookedCount/:customer_name - To GET Customer Details with number of times the room booked.
 
+
+API Link:https://hall-booking-mcgh.onrender.com/
+
